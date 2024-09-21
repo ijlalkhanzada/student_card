@@ -67,7 +67,7 @@ def generate_card(student_details):
 
     # Footer with colors (Q1 and WMD)
     footer_color_1 = patches.Rectangle((0, 0), 0.2, 0.05, transform=ax.transAxes, color='red')
-    footer_color_2 = patches.Rectangle((0.2, 0), 0.2, 0.05, transform=ax.transAxes, color='green')
+    footer_color_2 = patches.Rectangle((0.2, 0), 0.2, 0.05, transform=ax.transAxes, color='#78c13b')
     ax.add_patch(footer_color_1)
     ax.add_patch(footer_color_2)
     ax.text(0.1, 0.02, "Q1", ha='center', va='center', fontsize=12, color='white', transform=ax.transAxes)
