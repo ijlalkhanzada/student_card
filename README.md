@@ -40,7 +40,7 @@
 <p>To run this project locally, follow these steps:</p>
 
 <h3>1. Clone the repository</h3>
-<pre><code>git clone https://github.com/yourusername/student-card-generator.git
+<pre><code>git clone https://github.com/ijlalkhanzada/student-card-generator.git
 cd student-card-generator
 </code></pre>
 
